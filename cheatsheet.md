@@ -1,20 +1,3 @@
-I've reviewed your current cheatsheet.md file. I will now provide a rewritten, highly detailed, and beginner-friendly CSS cheat sheet based on your request and the latest best practices. The new version will:
-
-- Be organized from absolute beginner to advanced topics
-- Contain clear explanations, examples, and tips
-- Offer guidance for Flexbox and Grid in dedicated, step-by-step sections
-- Include practical advice and external resource links
-
-Below is the improved content for your cheatsheet.md file. **Review it and let me know if you want any further adjustments before I guide you through updating the file!**
-
----
-
-# CSS Cheat Sheet: From Beginner to Advanced
-
-> **How to use this guide:**  
-> Start from the top for a step-by-step journey, or jump to any section for reference. Each topic includes explanations, examples, and best practices.
-
----
 
 ## 1. Getting Started with CSS
 
@@ -423,5 +406,3 @@ CSS Grid is a two-dimensional layout system for complex layouts with rows and co
 - [Accessible Colors](https://accessible-colors.com/)
 
 ---
-
-**Let me know if you would like to proceed with updating your file, or if you want any section further expanded or adjusted!**
